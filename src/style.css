@@ -1,0 +1,22 @@
+.title {
+  font-size: 3rem;
+  box-shadow: 0 0 20px #000;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.red {
+  text-shadow: 0 0 15px #000;
+  color: red;
+}
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+img {
+  width: 50%;
+}
+br {
+  display: block;
+}
